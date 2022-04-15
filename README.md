@@ -43,3 +43,6 @@ jupyter notebook dog_app.ipynb
 - tqdm
 - PIL
 
+
+Blog post link:
+https://prvnk10.medium.com/udacity-nanodegree-capstone-dog-breed-classification-a83d6fd43286
